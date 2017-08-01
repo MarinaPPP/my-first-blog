@@ -25,7 +25,7 @@ SECRET_KEY = '1@1+8(^sx)6g_m5ya%4-&inyq1m!imz8ab(-s=a!pb8ao7a%b@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [marinappp.pythonanywhere.com]
+ALLOWED_HOSTS = []
 
 
 # Application definition
